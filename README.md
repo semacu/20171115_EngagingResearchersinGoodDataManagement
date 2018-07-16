@@ -18,5 +18,5 @@ Here is the [full video for the conference](https://www.youtube.com/watch?v=PsX0
 This work is distributed under a [CC-BY license](https://en.wikipedia.org/wiki/Creative_Commons_license). Anyone may copy, distribute, display and perform the work and make derivative works and remixes based on it only if they give the author attribution.
 
 <p align="center">
-<img src=../20171101-04_GenomeInformatics/images/UniversityCambridge_logo.png height="50"> <img src=../20171101-04_GenomeInformatics/images/Jisc_logo.png height="50">
+<img src=../../../20171101-04_GenomeInformatics/blob/master/images/UniversityCambridge_logo.png height="50"> <img src=../../../20171101-04_GenomeInformatics/blob/master/images/Jisc_logo.png height="50">
 </p>
